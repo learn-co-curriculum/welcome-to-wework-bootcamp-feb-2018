@@ -1,4 +1,4 @@
-# Welcome To Wework Bootcamp Feb 2018
+# Welcome To WeWork Bootcamp Feb 2018
 
 Hi! Welcome to the innaugural class of the WeWork Employee Bootcamp with me, Avi Flombaum, co-founder, Chief Product Officer, and Dean of Flatiron School.
 
