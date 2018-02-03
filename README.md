@@ -56,7 +56,29 @@ Every week we'll do lectures on Tuesdays and Thursdays at 6:30pm for 2 hours. Th
 
 If you don't do the week's curriculum, the lectures are going to be a bit hard to follow, so again, I highly recommend you make a calendar and explicitly schedule your learning time in advance, it helps a lot.
 
+I tried to make it so that the Thursday lectures cover a lot because then you'll have all weekend to work on the labs and review topics.
+
 That's basically the plan. You'll always have access to this curriculum so even if you can't finish everything in the time we have together, you'll still be able to do it on your own and with the Flatiron School community.
+
+### Learn.co and Learning with Flatiron School
+
+Learn.co is the educational platform we built at Flatiron School to power all of our classes. It's a bit different than other online learning systems, as you might be able to tell already. Here's the big stuff you need to know right now.
+
+1. We write. A lot. Programming is reading and writing all day and if you're serious about this career you might as well get used to reading about code a ton. We also think that videos are just too easy to not pay attention too when you're watching. Code is all details and syntax and videos make it hard to grasp those. I'll be adding some video lectures to the course but expect to see a lot of READMEs. Read. Read all of it. Seriously, it's how you learn. The "Curriculum" link on the top left will reveal the track and the topics, units, and lessons.
+
+2. We use real tools. There are no REPLs here or contrived programming environments that over-simplify things. You're going to use an IDE (Integrated Development Environment) we built called the [Learn IDE](http://help.learn.co/the-learn-ide). It comes with a terminal that provides you with a programming environment so you don't have to worry about setting up a proper environment.
+
+3. Community is everything to us. Learn is social. You'll see people asking questions, we encourage you to ask questions (it's how you learn), we expect you to help others when you can (and you should always try, 2 brains trying to figure something out is always better than 1). You can self organize study groups to meet other students and work together. And we want you to be a part of our **[Slack community](http://slack.learn.co) to hang out and [discuss the course](https://learn-co.slack.com/messages/G8ZUY7CP4)** and life and everything.
+
+We're going to do our best to staff the "Ask a Question" feature on Learn with teachers so that you get answers faster but we can't promise anything. I'll also be around a bunch during the week so don't be shocked if I pop-in to answer your question and help. I really do love meeting students and teaching.
+
+Finally, all of our lectures are going to be hosted via [Zoom](https://zoom.us) so I recommend downloading the client in advance.
+
+**All Lectures will be recorded and added to the curriculum so you can always re-watch them.**
+
+## Expectations About Our Community
+
+Finally, really quick, I want to say that our community is very important to us. Flatiron School is a supportive, open, and friendly place. We have a 0 tolerance for any sort of meanness, racism, sexism, harrassment, abuse, and such. You can read our full [Code of Conduct](http://flatironschool.com/code-of-conduct/) and we take it really seriously. Let's avoid discussing topics that are controversial and focus instead on code and how much we love learning. So please keep this place amazing. Should anything come up, please reach out to [support@flatironschool.com](mailto:support@flatironschool.com) or DM me on Slack or email me directly [avi@flatironschool.com](mailto:avi@flatironschool.com). _Not super worried about this because #wearewework but it never hurts to remind people._
 
 ## Continue On!
 
