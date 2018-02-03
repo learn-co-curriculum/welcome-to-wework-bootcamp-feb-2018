@@ -82,6 +82,8 @@ Finally, really quick, I want to say that our community is very important to us.
 
 ## Continue On!
 
+The next lesson is a bit about why I love programming so much and the one after is an essay by Paul Graham called Hackers and Painters that I always loved. You can read them or skip them, up to you, but I think the context is nice to have.
+
 On the right of this lesson you'll find the "I'm Done" button, click it and the "Next Lesson" button will appear allowing you to proceed.
 
 <p>
