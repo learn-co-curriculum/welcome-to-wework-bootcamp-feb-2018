@@ -36,17 +36,17 @@ Again, depending on how fast we go, I'd love to then take our Tic Tac Toe and pu
 
 ### Schedule
 
-We're experimenting with this format but here's the plan.
+Lectures will happen using [Zoom](https://zoom.us/download), so go ahead and download that client if you haven't already.
 
 * **Week 1: Monday February 5th - Friday February 9th**
-* Lecture 1: Tuesday, February 6th, 6:30pm-8:30pm EST
-* Lecture 2: Thursday, February 8th, 6:30pm-8:30pm EST
+* [Lecture 1](https://zoom.us/j/108747895): Tuesday, February 6th, 6:30pm-8:30pm EST
+* [Lecture 2](https://zoom.us/j/862531874): Thursday, February 8th, 6:30pm-8:30pm EST
 * **Week 2: Monday February 12th - Friday February 16th**
-* Lecture 3: Tuesday, February 13th, 6:30pm-8:30pm EST
-* Lecture 4: Thursday, February 15th, 6:30pm-8:30pm EST
+* [Lecture 3](https://zoom.us/j/165585983): Tuesday, February 13th, 6:30pm-8:30pm EST
+* [Lecture 4](https://zoom.us/j/978290736): Thursday, February 15th, 6:30pm-8:30pm EST
 * **Week 3: Monday February 19th - Friday February 23th**
-* Lecture 5: Tuesday, February 20th, 6:30pm-8:30pm EST
-* Lecture 6: Thursday, February 22th, 6:30pm-8:30pm EST
+* [Lecture 5](https://zoom.us/j/485806198): Tuesday, February 20th, 6:30pm-8:30pm EST
+* [Lecture 6](https://zoom.us/j/318497280): Thursday, February 22th, 6:30pm-8:30pm EST
 
 The first lecture will also cover a lot of the material covered in this section. Orientation is going to cover a lot of the basics of learning how to code, how to use Learn.co and the tools required to be a real developer like GitHub, a text editor, a terminal, test-driven-development, and etc. The goal of orientation is to make sure that you're all ready to get started with your Week 1 material. I will be around this weekend on [the Learn Slack](https://learn-co.slack.com/messages/G8ZUY7CP4) should you need help. You can also email me [af@wework.com](mailto:af@wework.com).
 
@@ -58,6 +58,11 @@ If you don't do the week's curriculum, the lectures are going to be a bit hard t
 
 That's basically the plan. You'll always have access to this curriculum so even if you can't finish everything in the time we have together, you'll still be able to do it on your own and with the Flatiron School community.
 
-## Closing Thoughts
+## Continue On!
 
-That's about it - let's get started learning! **You can continue to the next lesson by clicking "I'm Done" on the right.**
+On the right of this lesson you'll find the "I'm Done" button, click it and the "Next Lesson" button will appear allowing you to proceed.
+
+<p>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/doneandnext.png" align="center" style="margin: 0 auto; text-align: center"></br>
+  <em>Sample of the buttons you should click to proceed.</em>
+</p>
